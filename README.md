@@ -1,7 +1,7 @@
 # Reverse-Engineering of the Rolls-Royce Olympus 593 LPC
 ### Stage-by-Stage Mean-Line Compressor Design | MATLAB
 
-# For Handwritten Notes refer the Mathematical Model Document
+For Handwritten Notes refer the Mathematical Model Document
 ---
 
 ## What This Is
